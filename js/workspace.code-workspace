@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\..\\21-10-2021-10-45-20-qlsv\\QLSV"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "QuanLyNhanVien"
+	}
+}
